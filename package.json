@@ -60,7 +60,7 @@
     "merge": ">=2.1.1"
   },
   "dependencies": {
-    "@yaireo/tagify": "3.22.1",
+    "@yaireo/tagify": "3.25.0",
     "canvas-5-polyfill": "^0.1.5",
     "core-js": "^3.8.3",
     "crossfilter2": "^1.5.2",
